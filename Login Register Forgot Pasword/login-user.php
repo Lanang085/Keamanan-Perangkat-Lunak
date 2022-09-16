@@ -39,7 +39,7 @@ date_default_timezone_set("Asia/Jakarta");
                     <div class="form-group">
                         <input class="form-control button" type="submit" name="login" value="Login">
                     </div>
-                    <div class="link login-link text-center">Udah jadi member? <a href="signup-user.php">Daftar Sekarang</a></div>
+                    <div class="link login-link text-center">Apakah sudah daftar? <a href="signup-user.php">Daftar Sekarang</a></div>
                 </form>
             </div>
         </div>
